@@ -74,8 +74,8 @@ function EditData(oldname, newname){
     console.log(SchoolMap);
 }
 
-ShowAll();
+//ShowAll();
 // PushData();
 // DeleteData('SMP Malang');
-// EditData('SD Yasalam malang', 'SD Margo Basuki');
+EditData('SD Yasalam malang', 'SD Margo Basuki');
 
